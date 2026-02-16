@@ -450,7 +450,7 @@ export default function Features() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-blue-400 flex-shrink-0">🔄</span>
-                  <span><strong className="text-white">Keep EVSecure updated:</strong> When values change, update in EnvVault and re-export</span>
+                  <span><strong className="text-white">Keep EVSecure updated:</strong> When values change, update in EVSecure and re-export</span>
                 </li>
               </ul>
             </div>
@@ -519,3 +519,4 @@ export default function Features() {
     </div>
   );
 }
+
