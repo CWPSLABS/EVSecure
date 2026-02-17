@@ -512,11 +512,12 @@ export default function Features() {
       <footer className="relative py-12 bg-slate-950/50 mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center text-gray-500 text-sm">
-            <p>© 2026 EVSecure. Your secrets stay yours.</p>
+            <p>© 2026 EVSecure. Your secret, stays yours.</p>
           </div>
         </div>
       </footer>
     </div>
   );
 }
+
 
