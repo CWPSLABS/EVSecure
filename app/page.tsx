@@ -90,7 +90,7 @@ export default function Home() {
       <footer className="relative py-12 bg-slate-950/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center text-gray-500 text-sm">
-            <p>© 2026 EVSecure. Built for developers who care about security.</p>
+            <p>© 2026 EVSecure. Your secret, stays yours.</p>
           </div>
         </div>
       </footer>
