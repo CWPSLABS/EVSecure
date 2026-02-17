@@ -30,13 +30,15 @@ export const PLANS = {
     name: 'Pro',
     interval: 'monthly',
     // Prices in smallest currency unit (kobo, pesewas, cents, etc.)
+
     prices: {
-      NGN: 500000, // ₦5,000.00
-      GHS: 7000,   // ₵70.00
-      KES: 120000, // KSh 1,200.00
-      ZAR: 15000,  // R150.00
-      USD: 999,    // $9.99
+      NGN: 400000, // ₦4,000.00
+      GHS: 3200,   // ₵32.00
+      KES: 38500, // KSh 385.00
+      ZAR: 4800,  // R48.00
+      USD: 299,    // $2.99
     },
+    
     features: [
       'Everything in Free',
       'Cloud sync across devices',
@@ -62,4 +64,5 @@ export function formatPrice(amount: number, currency: Currency): string {
     minimumFractionDigits: 2,
     maximumFractionDigits: 2,
   })}`;
+
 }
