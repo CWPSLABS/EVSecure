@@ -27,15 +27,15 @@ export const metadata: Metadata = {
     "developer tools",
     "encrypt api keys",
   ],
-  authors: [{ name: "EVSecure", url: "https://env-vault-six.vercel.app" }],
+  authors: [{ name: "EVSecure", url: "https://evsecure-six.vercel.app" }],
   creator: "EVSecure",
-  metadataBase: new URL("https://env-vault-six.vercel.app"),
+  metadataBase: new URL("https://evsecure-six.vercel.app"),
   alternates: {
     canonical: "/",
   },
   openGraph: {
     type: "website",
-    url: "https://env-vault-six.vercel.app",
+    url: "https://evsecure-six.vercel.app",
     siteName: "EVSecure",
     title: "EVSecure - Secure Environment Variable Manager",
     description: "Securely store, manage and sync your API keys and .env files with AES-256 encryption. Zero-knowledge — we never see your secrets.",
